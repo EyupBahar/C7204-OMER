@@ -6,11 +6,11 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Gizem346&show_icons=true&theme=vision-friendly-dark" align='left' width="55%">
 <br><br><br><br><br><br><br><br><br>
 -I am working to become a full stack developer who is successful in her job. And I will ✌
-- 🔭 I'm currently working on frontend and mobile app development with React, React Native and JavaScript
+- 🔭 I'm currently working on frontend and mobile app development with React and JavaScript
 - 🌱 I'm currently learning backend with Nodejs, Django and MongoDB
 - 💬 Ask me about anything you want to learn
 - 📫 How to reach me: Of Course via [Linkedin](https://www.linkedin.com/in/eyup-bahar-081141199/) 👀
-<!--
+
 **C7204-OMER/OMER_FARUK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I'm currently working on ...
@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-<!--
+
 **C7204-OMER/OMER_FARUK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I'm currently working on ...
@@ -33,4 +32,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
