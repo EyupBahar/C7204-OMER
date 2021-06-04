@@ -1,6 +1,6 @@
-### Hi there 👋 I'm Eyup
+### Hi there 👋 I'm Ömer Faruk
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Eyup" alt="Eyup" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=C7204-OMER" alt="C7204-OMER" /> </p>
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eyup-bahar-081141199/)
 <br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=Gizem346&show_icons=true&theme=vision-friendly-dark" align='left' width="55%">
@@ -9,9 +9,7 @@
 - 🔭 I'm currently working on frontend and mobile app development with React, React Native and JavaScript
 - 🌱 I'm currently learning backend with Nodejs, Django and MongoDB
 - 💬 Ask me about anything you want to learn
-- 📫 How to reach me: Of Course via [Linkedin](https://www.linkedin.com/in/gizem-g%C3%BCne%C5%9F-ab35231b8/) 👀
-## Medium Articles
-- [Kodlamaya Dair](https://medium.com/@whiteswan1697/yaz%C4%B1l%C4%B1m-ve-kodlamaya-dair-4b3eefb30be9)
+- 📫 How to reach me: Of Course via [Linkedin](https://www.linkedin.com/in/eyup-bahar-081141199/) 👀
 <!--
 **C7204-OMER/OMER_FARUK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
