@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=C7204-OMER" alt="C7204-OMER" /> </p>
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eyup-bahar-081141199/)
 <br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=Gizem346&show_icons=true&theme=vision-friendly-dark" align='left' width="55%">
+<img src="https://github-readme-stats.vercel.app/api?username=C7204-OMER&show_icons=true&theme=vision-friendly-dark">
 <br><br><br><br><br><br><br><br><br>
 -I am working to become a full stack developer who is successful in her job. And I will ✌
 - 🔭 I'm currently working on frontend and mobile app development with React and JavaScript
