@@ -5,11 +5,11 @@
 <br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=C7204-OMER&show_icons=true&theme=vision-friendly-dark">
 <br><br>
--I am working to become a full stack developer who is successful in her job. And I will ✌
-- 🔭 I'm currently working on frontend and mobile app development with React and JavaScript
-- 🌱 I'm currently learning backend with Nodejs, Django and MongoDB
-- 💬 Ask me about anything you want to learn
-- 📫 How to reach me: Of Course via [Linkedin](https://www.linkedin.com/in/eyup-bahar-081141199/) 👀
+-I am working to become a full stack developer who is successful in her job. And I will ✌<br>
+- 🔭 I'm currently working on frontend and mobile app development with React and JavaScript<br>
+- 🌱 I'm currently learning backend with Nodejs, Django and MongoDB<br>
+- 💬 Ask me about anything you want to learn<br>
+- 📫 How to reach me: Of Course via [Linkedin](https://www.linkedin.com/in/eyup-bahar-081141199/) 👀<br>
 
 **C7204-OMER/OMER_FARUK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
