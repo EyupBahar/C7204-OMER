@@ -10,9 +10,6 @@
 - 🌱 I'm currently learning backend with Nodejs, Django and MongoDB<br>
 - 💬 Ask me about anything you want to learn<br>
 - 📫 How to reach me: Of Course via [Linkedin](https://www.linkedin.com/in/eyup-bahar-081141199/) 👀<br>
-
-**C7204-OMER/OMER_FARUK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
 - 🔭 I'm currently working on ...
 - 🌱 I'm currently learning ...
 - 👯 I'm looking to collaborate on ...
