@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Eyup</h1>
+<h1 align="center">Hi 👋, I'm Joseph</h1>
 <h3 align="center">I am a Junior Frontend Developer</h3>
 
 - 🌱 I’m currently learning **React.js, Firebase, Django**
