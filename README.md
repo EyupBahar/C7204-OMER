@@ -1,3 +1,5 @@
+Hi I'm Eyup.
+
 <h3 align="center">What I am using? 🛠 React.Js for Frontend / Django & Node.Js for Backend</h3>
 
 - 🔭 I’m currently working on **front-end, React.Js & JavaScript**
